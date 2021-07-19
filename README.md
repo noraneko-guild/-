@@ -22,6 +22,8 @@
 登録やアプリをインストールとかそうゆうのは公式サイトへ!  
 [Discord公式サイト](https://discord.com/)
 
-### イベント
+## 🌏 その他関連リンク
+
+### 📣 イベント
 
 - [ノラネコギルド - connpass](https://noraneko-guild.connpass.com/)

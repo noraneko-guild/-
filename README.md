@@ -21,3 +21,7 @@
 チャットやボイチャとかするやーつです。  
 登録やアプリをインストールとかそうゆうのは公式サイトへ!  
 [Discord公式サイト](https://discord.com/)
+
+### イベント
+
+- [ノラネコギルド - connpass](https://noraneko-guild.connpass.com/)
